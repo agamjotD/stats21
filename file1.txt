@@ -1,1 +1,2 @@
 This is my first text file for the Stats 21 GitHub assignment.
+Adding another line for a second commit.
